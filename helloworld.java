@@ -7,5 +7,7 @@ class helloworld
         System.out.println("AAAAAAAAAAs");
         System.out.print("hey");
         System.out.println("heyyyy");
+        int n=10;
+        System.out.println("value"+n);
     }
 }
